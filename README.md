@@ -101,15 +101,11 @@ This WhatsApp Clone replicates the core features of WhatsApp. Built with **Flutt
 
 ### 🏠 Home Screen
 ![Home - Chats Tab](screenshots/home_chats.png)
-![Home - Status Tab](screenshots/home_status.png)
-![Home - Calls Tab](screenshots/home_calls.png)
 
 ### 💬 Messaging
 ![Chat Screen](screenshots/chat_screen.png)
-![Message Bubbles](screenshots/messages.png)
 
 ### 👥 Contacts
-![Contact List](screenshots/contacts.png)
 ![Add New Contact](screenshots/add_contact.png)
 
 ### 💻 Web Interface
@@ -118,7 +114,6 @@ This WhatsApp Clone replicates the core features of WhatsApp. Built with **Flutt
 
 ### ⚙️ Other Features
 ![Logout Dialog](screenshots/logout.png)
-![Profile](screenshots/profile.png)
 
 ---
 
